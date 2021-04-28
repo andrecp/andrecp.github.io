@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="{{site.url}}/assets/foto-eu.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/foto-eu.png" style="height:200px; display:block;margin: auto;border-radius: 20%;" />
 
 Hello!
 
