@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "DevOps Enterprise Summit (DOES) 2020"
+date:   2020-10-15 08:55:38 -0700
+categories: devops thoughts
+---
+
+I had the opportunity of attending the DevOps Enterprise Summit virtually this year and I really enjoyed it! It was particularly refreshing to be in a DevOps conference that wasn't about tooling, hearing how Kubernetes will solve all of your problems in 50% of the talks was my experience in another conference last year... Anyho! You can find more about the conference [here](https://events.itrevolution.com/eur/about/).
+
+Implementing DevOps in companies with multiple divisions and teams is very challenging! Having a conference where people share their experiences doing so in some of the most known companies in the planet is really valuable.
+
+The common topics between the talks seemed to be:
+* Leadership
+* Have Dev and Ops working as together as possible, sharing common goals in the organization! Devs should be responsible for their code and be on call; Ops should learn how to code.
+* Product oriented teams instead of silos per area of expertise
+* Build a Platform for your developers so that they can focus in developing business features and not worry about infrastructure
+* Observability!
+* Celebrate failures instead of punishing it, learn from your failures
+* DOJO kind of setups to grow a community around technical topics, helping people to get started and have immersive learning
+
+## Birds of a feather (BoF)
+
+Conferences usually have BoF sessions per subject where people share their experiences and thoughts! It is my favorite part of [SIGGRAPH](https://s2020.siggraph.org/) and it was the first time I attended a BoF outside the VFX bubble!
+
+It was really cool to see people from different companies and industries sharing their thoughts and struggles in their DevOps journey! 
+
+No matter the industry (finance, games, insurance, airlines) everyone faces similar challenges with the devops transformation. It is a hard journey. 
+
+This is reassuring in lots of ways! By working in the same company or industry for a long time you might think that the problems you face are specific to your domain and everyone else has it figured out, but, no...
+
+The majority of companies who have been around for a long time seem to:
+* Have silos where teams do not communicate or share efforts
+* Have a lot of technical debt, code with no clear ownership or SME, huge monolithics that are too expensive to dedicate time to break apart
+* Struggle getting buy-in from senior leadership to enforce "the devops way" across the company, needing to instead practice influence without authority
+
+## Walmart DevOps Journey
+
+Walmart gave a talk on their DevOps journey, March of 2020 they had their systems hit peak usage and ... they were ready for it! But it wasn't something that happened overnight.
+
+They started their DevOps journey in 2015 when they had their first DevOps day, they shared how they started by putting a team whose main goal was to "Deliver Today" any software change.
+
+"Why can't we deliver today?" was the problem the team had to solve! They did so in a lot of baby steps: sometimes there were technical challenges that had to be solved, sometimes there were political challenges but eventually they were able to "Deliver Today" any software change!
+
+Some takeaways from their team were:
+* Focus on measurable outcomes
+* Good practices should be the easy path
+* Continous delivery catalyzes culture change
+* Teams are happier delivering better value sooner and safer
+
+That really resonates with me and my experiences trying to implement DevOps in organizations (none the size of Walmart!), the transformation starts from baby steps in the day to day problems and hopefully once people start seeing the value they start wanting more!
+
+It's like a snowball going downhill that keeps getting bigger and getting more momentum. First make it possible for the organization to deliver software changes in the same day, years later have all your infrastructure automated and dynamically scaling.
+
+## Final thoughts
+
+It is very naive to think that someone can walk into a new place and change its culture and developer processes in a short amount of time, only if all you needed to do was to install Kubernetes! 
+
+I loved a quote I heard in the last day of the conference from the StackOverflow presentation
+> Leadership is going first and making it easy for others to follow;
+
+A good addition to the leaders one by [Jason](https://www.jasonacox.com/wordpress/)
+> Great leaders are optimistic – They are hopeful, confident, and positive.
+
+DOES gave me a lot to think about! I am inspired by the experience of others and how they are transforming their organizations with DevOps, lots of ideas on what to do next here at ILM. 
+
+I also added two new books to my reading list:
+* Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework
+* Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
