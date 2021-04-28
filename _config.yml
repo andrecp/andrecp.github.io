@@ -28,7 +28,7 @@ twitter_username: andrecasp
 github_username: andrecp
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
     - jekyll-feed
 # Exclude from processing.
