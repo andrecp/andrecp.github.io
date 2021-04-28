@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating a VM in Digital Ocean with Terraform"
 date:   2021-03-14 08:55:38 -0700
-categories: devops terraform cloud
+tags: devops terraform cloud
 ---
 
 Today I created a virtual machine in Digital Ocean with Terraform! Had been a while, it's surprising how straight forward things can be now a days in the DevOps space. You can register in Digital Ocean [here](https://cloud.digitalocean.com/registrations/new), create a personal token [here](https://www.digitalocean.com/community/tutorials/how-to-use-the-digitalocean-api-v2#HowToGenerateaPersonalAccessToken) and generate the ssh keys [here](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets).

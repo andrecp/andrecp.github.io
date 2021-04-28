@@ -2,7 +2,7 @@
 layout: post
 title:  "Approaching software problems from first principles"
 date:   2021-04-21 08:55:38 -0700
-categories: software
+tags: software
 ---
 
 One thing that I've noticed across my career is how many of us developers sometimes get caught into the details about a particular software tool when trying to troubleshoot an issue, rather than truly understanding what the software is trying to achieve and what might be preventing it from in a systematic level.

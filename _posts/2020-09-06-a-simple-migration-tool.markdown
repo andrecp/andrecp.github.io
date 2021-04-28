@@ -2,7 +2,7 @@
 layout: post
 title:  "A simple migration tool in python"
 date:   2020-09-06 08:55:38 -0700
-categories: python software
+tags: python software
 ---
 
 ## A simple migration tool in python

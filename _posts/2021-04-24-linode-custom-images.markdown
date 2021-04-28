@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating a custom Linode with Terraform and Packer"
 date:   2021-04-24 08:55:38 -0700
-categories: devops cloud
+tags: devops cloud
 ---
 
 I struggled a little bit trying to create a Linode VM with a custom image using Packer and Terraform, thought I would share how I did here to help the next person! My main issue was that the disk space of the VM created from a custom image was ~ 5 GB instead of the advertised ~160 GB for the plan I was using.

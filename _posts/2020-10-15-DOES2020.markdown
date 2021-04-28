@@ -2,7 +2,7 @@
 layout: post
 title:  "DevOps Enterprise Summit (DOES) 2020"
 date:   2020-10-15 08:55:38 -0700
-categories: devops thoughts
+tags: devops thoughts
 ---
 
 I had the opportunity of attending the DevOps Enterprise Summit virtually this year and I really enjoyed it! It was particularly refreshing to be in a DevOps conference that wasn't about tooling, hearing how Kubernetes will solve all of your problems in 50% of the talks was my experience in another conference last year... Anyho! You can find more about the conference [here](https://events.itrevolution.com/eur/about/).

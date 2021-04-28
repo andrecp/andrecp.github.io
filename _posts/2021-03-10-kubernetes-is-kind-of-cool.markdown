@@ -2,7 +2,7 @@
 layout: post
 title:  "Kubernetes is kind of cool"
 date:   2021-03-10 08:55:38 -0700
-categories: devops kubernetes
+tags: devops kubernetes
 ---
 
 Having helped a couple of companies in the devops space I feel very comfortable with the tech stack I am the most familiar with (shocking):
