@@ -8,7 +8,7 @@ permalink: /about/
 
 Hello!
 
-I'm a software developer working in the Visual Effects industry, I lead a team of amazing software developers at Industrial Light & Magic where we make movies like Star Wars and Avengers come to life with computer generated graphics.
+I'm a software developer working in the Visual Effects industry, I manage & lead a team of amazing software developers at Industrial Light & Magic where we make movies like Star Wars and Avengers come to life with computer generated graphics.
 
 In this website I share some rambles about technology and leadership. 
 
