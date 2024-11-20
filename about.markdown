@@ -8,8 +8,8 @@ permalink: /about/
 
 Hello!
 
-I'm a senior software manager working in the omniverse kit team at NVIDIA, in this website I share some rambles about technology and leadership. 
+I'm a director of software engineering at NVIDIA, in this website I share some rambles about technology and leadership. 
 
-You can find me on [Twitter](https://twitter.com/andrecasp), [Linkedin](https://www.linkedin.com/in/andrecasp/) and [Github](https://github.com/andrecp), if you prefer you can also [email](mailto:andre@andrecp.com) me.
+You can find me on [BlueSky](https://bsky.app/profile/andrecp.com), [Linkedin](https://www.linkedin.com/in/andrecasp/) and [Github](https://github.com/andrecp), if you prefer you can also [email](mailto:andre@andrecp.com) me.
 
 This website is generated with [jekyll](https://github.com/jekyll/jekyll) and hosted on [github pages](https://pages.github.com)
